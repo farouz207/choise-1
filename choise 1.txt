@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<title>À toi, ma tendresse éternelle</title>
+<style>
+    body {
+        font-family: 'Georgia', serif;
+        background-color: #fff0f5;
+        color: #4B0082;
+        line-height: 1.6;
+        padding: 20px;
+    }
+    h1 {
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 20px;
+        text-shadow: 1px 1px 2px #ccc;
+    }
+    p {
+        margin-bottom: 20px;
+        font-size: 1.2em;
+        text-align: justify;
+    }
+    /* Styles pour le lecteur audio */
+    .audio-player {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+</style>
+</head>
+<body>
+<h1>À toi, mon amour éternel, mon infinie douleur</h1>
+
+<p>Mon amour, chaque matin sans toi est comme un lever de soleil sans lumière,<br>
+et chaque nuit, ton souvenir illumine mes rêves comme l’étoile la plus brillante dans mon ciel.<br>
+Ton absence est une douleur douce-amère, un vide qui hante chaque instant,<br>
+mais c’est aussi cette douleur qui me rappelle à quel point je suis fou de toi, irremplaçable, précieux.</p>
+
+<p>Je porte en moi cette passion ardente qui ne s’éteint jamais,<br>
+une flamme qui brûle intensément, peu importe la distance ou les tempêtes.<br>
+Ton amour est cette étoile fixe dans mon univers, mon refuge, mon essentiel,<br>
+et chaque battement de mon cœur chante ton nom avec ferveur.</p>
+
+<p>Rien dans ce monde n’est plus beau que l’idée de te revoir,<br>
+de prendre ta main, de sentir ton souffle, de regarder dans tes yeux et tout comprendre.<br>
+Je rêve de nos moments complices et tendres, de nos regards échangés dans le silence,<br>
+car c’est là que je trouve la vérité de mon amour pour toi.</p>
+
+<p>Chaque nuit, je prie le destin de nous réunir, de guérir chaque blessure,<br>
+de faire s’envoler cette distance qui nous sépare et d’effacer la douleur.<br>
+Je crois en notre avenir, en ces cœurs liés à jamais sous un même ciel,<br>
+car mon amour pour toi est un feu qui ne s’éteindra jamais, quoi qu’il arrive.</p>
+
+<p>Toi, mon amour passionné, tu es ma raison de vivre,<br>
+ma force, mon rêve, ma vérité infinie.<br>
+Sache que, peu importe où la vie nous mène, je t’aimerai éternellement,<br>
+et que rien ne pourra jamais effacer cette flamme qui brûle pour toi dans mon cœur.</p>
+
+<!-- Lecteur audio avec une musique romantique libre -->
+<div class="audio-player">
+    <audio controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
+        Votre navigateur ne supporte pas la balise audio.
+    </audio>
+</div>
+
+</body>
+</html>
